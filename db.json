@@ -1,0 +1,9 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Mekong Cafe",
+        "city": "Wellington"
+      }
+    ]
+  }
